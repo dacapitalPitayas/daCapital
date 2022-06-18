@@ -1,0 +1,16 @@
+/*
+    pallet:
+    #F6A5B8 - rose
+    #ED2B77 - dark rose
+    #0F6B6B - steal
+    #54A02C - green
+*/
+
+.MainContainer{
+    background-color: #0F6B6B;
+    color: white;
+}
+
+.icon{
+    width: 100px;
+}
