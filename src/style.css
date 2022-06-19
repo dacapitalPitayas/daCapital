@@ -12,5 +12,18 @@
 }
 
 .icon{
-    width: 100px;
+    width: 130px;
+}
+
+.style-button{
+    background-color: #ED2B77;
+}
+
+
+.img-width-1{
+    height: 550px;
+}
+
+.img-subititle{
+    font-size: 12px;
 }
